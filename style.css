@@ -100,15 +100,15 @@ body{
       /* margin:50px; */
       /* margin:1px 2px 3px 4px; */
    /* } */
-   *{
+   /* *{
       padding:0;
       margin:0;
       color:white;
    }
-   #navbar{
+   #navbar{ */
       /* height:100px;
       width:100px; */
-      height:60px;
+      /* height:60px;
       background-color:#0f1111;
       
    }
@@ -122,4 +122,12 @@ body{
  a{
    margin-right:100px;
    text-decoration:none;
- }
+ } */
+  div{
+   background-color: pink;
+   display:inline;
+  }
+  button{
+   display:block;
+  }
+  
