@@ -34,7 +34,7 @@ body{
     /* text-decoration:underline overline; */
     /* text-decoration:line-through; */
   /* } */
-#h1{
+/* #h1{
    font-weight:normal;
 }
 #h2{
@@ -45,10 +45,16 @@ body{
 }
 #h4{
    font-weight:lighter;
-}
+} */
 /* #one{
    font-family:arial;
 } */
-#one{
+/* #one{
    font-family:roboto,arial;
-}
+} */
+ #one{
+   font-size:25px;
+ }
+ #two{
+   font-size:10px;
+ }
