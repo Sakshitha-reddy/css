@@ -64,7 +64,7 @@ body{
    /* text-transform:lowercase; */
    /* text-transform:capitalize; */
   /* } */
-  h1{
+  /* h1{
    text-align:center;
    text-transform:capitalize;
   }
@@ -76,4 +76,9 @@ body{
   }
   #inner{
    font-size:10px;
-  }
+  } */
+   div{
+      height:100px;
+      background-color:pink;
+      width:100px;
+   }
