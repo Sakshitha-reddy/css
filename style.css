@@ -52,9 +52,12 @@ body{
 /* #one{
    font-family:roboto,arial;
 } */
- #one{
+ /* #one{
    font-size:25px;
  }
  #two{
    font-size:10px;
- }
+ } */
+  #one{
+   line-height:50px;
+  }
