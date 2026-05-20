@@ -93,8 +93,10 @@ body{
       /* padding-bottom:25px; */
       /* padding:1px 2px 3px 4px; */
       padding:25px;
-      margin-top:50px;
+      /* margin-top:50px;
       margin-bottom:50px;
       margin-left:50px;
-      margin-right:50px;
+      margin-right:50px; */
+      /* margin:50px; */
+      margin:1px 2px 3px 4px;
    }
