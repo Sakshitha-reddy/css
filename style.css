@@ -139,22 +139,25 @@ body{
       padding:25px;
       display:inline-block;
    }
-   #two{
+   /* #two{
       width:100px;
       height:100px;
       background-color:green;
        margin:25px;
       padding:25px;
       display:inline-block;
-   }
-   /* #three{
+   } */
+   #three{
       width:100px;
       height:100px;
       background-color:orange;
        margin:25px;
       padding:25px;
       display:inline-block;
-   } */
-    #three{
+   }
+    /* #three{
       display:none;
-    }
+    } */
+     #two{
+      visibility:hidden;
+     }
