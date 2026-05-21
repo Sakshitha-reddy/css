@@ -123,11 +123,35 @@ body{
    margin-right:100px;
    text-decoration:none;
  } */
-  div{
+  /* div{
    background-color: pink;
    display:inline;
   }
   button{
    display:block;
   }
-  
+   */
+   #one{
+      width:100px;
+      height:100px;
+      background-color:blue;
+      margin:25px;
+      padding:25px;
+      display:inline-block;
+   }
+   #two{
+      width:100px;
+      height:100px;
+      background-color:green;
+       margin:25px;
+      padding:25px;
+      display:inline-block;
+   }
+   #three{
+      width:100px;
+      height:100px;
+      background-color:orange;
+       margin:25px;
+      padding:25px;
+      display:inline-block;
+   }
