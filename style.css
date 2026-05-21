@@ -180,6 +180,7 @@ body{
          width:30%;
          background-color:green;
          font-size:2em;
-         width:5rem;
+         /* width:5rem; */
          height:50vh;
+          width:5vw;
        }
