@@ -147,11 +147,14 @@ body{
       padding:25px;
       display:inline-block;
    }
-   #three{
+   /* #three{
       width:100px;
       height:100px;
       background-color:orange;
        margin:25px;
       padding:25px;
       display:inline-block;
-   }
+   } */
+    #three{
+      display:none;
+    }
