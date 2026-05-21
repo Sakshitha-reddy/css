@@ -184,11 +184,21 @@ body{
          /* height:50vh; */
           /* width:5vw; */
        /* } */ 
-       div{
+       /* div{
          height:100px;
          width:100px;
          position:fixed;
          background-image:url('image.png');
          right:0px;
          background-size:cover;
-       }
+       } */
+        div{
+         height:100px;
+         width:100px;
+         background-color:blue;
+        }
+        @media(width:600px){
+         div{
+            background-color:green;
+         }
+        }
