@@ -211,11 +211,12 @@ body{
          transition-duration:2s; */
          /* transition:all 2s ease-in 1s; */
          /* transform:rotate(45deg); */
-         transform:scale(1.5);
+         transition:all 2s ease-in;
          }
          div:hover{
-            background-color:green;
-            color:white;
+            /* background-color:green;
+            color:white; */
+            transform:translateY(40px);
          }
          div:active{
             background-color:yellow;
