@@ -192,7 +192,7 @@ body{
          right:0px;
          background-size:cover;
        } */
-        div{
+        /* div{
          height:100px;
          width:100px;
          background-color:blue;
@@ -201,4 +201,18 @@ body{
          div{
             background-color:green;
          }
-        }
+        } */
+         div{
+         height:100px;
+         width:100px;
+         background-color:blue;
+         border:2px solid black;
+         }
+         div:hover{
+            background-color:green;
+            color:white;
+         }
+         /* div:active{
+            background-color:yellow;
+            color:black;
+         } */
