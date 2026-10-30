@@ -1,5 +1,10 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
 h1{
     color:red;
+    text-align:center;
+    text-transform:capitalize;
 }
 #box{
     background-color:blue;
@@ -9,4 +14,15 @@ h1{
 }
 button{
     background-color:green;
+}
+p{
+    text-align:right;
+    text-decoration:underline;
+    font-weight: light;
+}
+#outer{
+    font-size:25px;
+}
+#inner{
+    font-size:10px;
 }
